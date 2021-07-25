@@ -6,3 +6,7 @@ A Web App that show Edge device's location and provide Image processing to Edge 
 
 OI : original image   
 CI : converted image
+
+# UI Design
+![ui](https://user-images.githubusercontent.com/80691913/126894538-022696b2-18b5-4069-8212-26ecf935dd79.png)
+
